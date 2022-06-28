@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_flink/1_flink.iml" filepath="$PROJECT_DIR$/1_flink/1_flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_flink/2_flink.iml" filepath="$PROJECT_DIR$/2_flink/2_flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_flink/3_flink.iml" filepath="$PROJECT_DIR$/3_flink/3_flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_FLINK/4_FLINK.iml" filepath="$PROJECT_DIR$/4_FLINK/4_FLINK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_flink/5_flink.iml" filepath="$PROJECT_DIR$/5_flink/5_flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_flink/6_flink.iml" filepath="$PROJECT_DIR$/6_flink/6_flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFlinkApplication/FlinkApp.iml" filepath="$PROJECT_DIR$/MyFlinkApplication/FlinkApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlinkApplication.iml" filepath="$PROJECT_DIR$/FlinkApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFlinkApplication/MyFlinkApplication.iml" filepath="$PROJECT_DIR$/MyFlinkApplication/MyFlinkApplication.iml" />
+    </modules>
+  </component>
+</project>

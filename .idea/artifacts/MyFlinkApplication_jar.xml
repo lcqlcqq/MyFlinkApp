@@ -1,0 +1,76 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyFlinkApplication:jar">
+    <output-path>$PROJECT_DIR$/../../实训/03实时流式计算</output-path>
+    <root id="archive" name="MyFlinkApplication.jar">
+      <element id="module-output" name="MyFlinkApplication" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/lz4-1.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/gson-2.8.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/minlog-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/antlr-2.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/kryo-2.24.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/config-1.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/httpcore-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/jsr305-1.3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/objenesis-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/ansj_seg-5.1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/httpclient-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/nlp-lang-1.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/chill-java-0.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/chill_2.11-0.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-core-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-java-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/scopt_2.11-3.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/slf4j-api-1.7.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/commons-cli-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/commons-codec-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/commons-math3-3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/sdk-daas-s3-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/jsontools-core-1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/commons-lang3-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/force-shading-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/javassist-3.19.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/slf4j-log4j12-1.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/snappy-java-1.1.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/scala-xml_2.11-1.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/commons-compress-1.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-hadoop-fs-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/scala-library-2.11.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/scala-reflect-2.11.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/akka-actor_2.11-2.5.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/akka-slf4j_2.11-2.5.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-scala_2.11-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/jackson-core-asl-1.8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/kafka-clients-0.10.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/reactive-streams-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/scala-compiler-2.11.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/akka-stream_2.11-2.5.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-annotations-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-clients_2.11-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-metrics-core-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-runtime_2.11-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/jackson-mapper-asl-1.8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/akka-protobuf_2.11-2.5.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/commons-collections-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/grizzled-slf4j_2.11-1.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-optimizer_2.11-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/ssl-config-core_2.11-0.3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-shaded-guava-18.0-7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-shaded-asm-6-6.2.1-7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/scala-java8-compat_2.11-0.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-shaded-jackson-2.9.8-7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-streaming-java_2.11-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-streaming-scala_2.11-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-shaded-netty-4.1.32.Final-7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/scala-parser-combinators_2.11-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-connector-kafka-0.9_2.11-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-connector-kafka-0.10_2.11-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-connector-kafka-base_2.11-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spark/flink dependencies/flink-queryable-state-client-java-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/environment/scala-2.11.8/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/environment/scala-2.11.8/lib/scala-reflect.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
